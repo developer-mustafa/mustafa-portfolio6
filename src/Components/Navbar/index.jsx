@@ -4,7 +4,7 @@ function Navbar() {
 	return (
 		<nav className={styles.nav_container}>
 			<div className={styles.nav_left}>
-				<a href="#home">John</a>
+				<a href="https://mustafa-portfolio3.netlify.app/" target="blank">Mustafa Rahman</a>
 			</div>
 			<div className={styles.nav_right}>
 				<a href="#about" className={styles.nav_link}>
